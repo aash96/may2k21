@@ -32,7 +32,7 @@ h1 {
 	margin-bottom: 15px;
 	padding-bottom: 15px;
 }
-
+@media(min-width: 992px){
 #Beef.col-md-4, #Chicken.col-md-4 {
 	border-right: 7.5px solid #7FDBFF;
 	padding-right: 7.5px;
@@ -41,6 +41,8 @@ h1 {
 	border-left: 7.5px solid #7FDBFF;
 	padding-left: 7.5px;
 }
+}
+@media (min-width: 768px) and (max-width: 991px){
 #Beef.col-sm-6 {
 	border-left: 7.5px solid #7FDBFF;
 	padding-left: 7.5px;
@@ -48,6 +50,7 @@ h1 {
 #Chicken.col-sm-6{
 	border-right: 7.5px solid #7FDBFF;
 	padding-right: 7.5px;
+}
 }
 #mynav {
 	border: 0;
