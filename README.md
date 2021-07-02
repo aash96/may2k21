@@ -1,6 +1,6 @@
 # Ashwin's Blog? NOooo
 ## Took me 2 months to understand how to use this
-![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnaruto.fandom.com%2Ff%2Fp%2F4400000000000012996&psig=AOvVaw1C4te6BHuVT5wJyB1QY7e6&ust=1625300793982000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCOCz_8X7w_ECFQAAAAAdAAAAABAJ)
+![Image](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f0d50b75-cd16-42c2-94bc-7d534c2e4d98/d886anm-38be52c3-71c1-4b78-b087-916fd9d80bd8.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2YwZDUwYjc1LWNkMTYtNDJjMi05NGJjLTdkNTM0YzJlNGQ5OFwvZDg4NmFubS0zOGJlNTJjMy03MWMxLTRiNzgtYjA4Ny05MTZmZDlkODBiZDgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.povLUm7INAwBSQKIkZpFRoJYY1ccf6HOQjr9FqwN_mE)
 ```markdown
 Just Getting Started
 ```
@@ -25,5 +25,6 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see 
+[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 ```
